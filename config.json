@@ -1,0 +1,11 @@
+{
+  "api_key": "AIzaSyCpKar7s73w49mAZeL7I-N6A9P8eDYX-6I",
+  "model": "gemini-2.0-flash",
+  "image_save_dir": "E:\\桌面",
+  "history_save_dir": "E:\\桌面",
+  "temperature": 0.2,
+  "max_output_tokens": 200,
+  "system_instruction": "",
+  "struct_format": "无",
+  "func_decl": ""
+}
